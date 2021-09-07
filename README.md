@@ -8,3 +8,4 @@ Using Apriori algorithm to generate all the association rules and by taking the 
 # Library Usage :
 For now, I'm using Pandas & Numpy to help me work on this project.
 
+## Testing the file.
